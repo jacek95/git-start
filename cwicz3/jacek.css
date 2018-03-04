@@ -1,0 +1,31 @@
+body {background-color:#c0c0c0;
+}
+.jacek{
+	width:100%;
+	border-bottom:0;
+}
+.szkoła{
+	width:50%;
+	height:0px;
+}
+.rozrywka{
+	margin-left:50%;
+	position:absolute;
+}
+header{
+	background-color:black;
+	text-align:center;
+	color:white;
+	font-size:30px;
+}
+article{
+	border-width:1px solid grey;
+	padding:1em;
+	overflow:hidden;
+	font-size:20px;
+}
+h1{
+	text-align:center;
+}
+p{
+	font-size:10;
